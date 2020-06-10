@@ -30,7 +30,6 @@
                                             </label>
                                         </subviews>
                                         <constraints>
-                                            <constraint firstAttribute="trailing" secondItem="gC2-i9-XzD" secondAttribute="trailing" constant="-20" id="58N-j1-43r"/>
                                             <constraint firstAttribute="bottom" secondItem="gC2-i9-XzD" secondAttribute="bottom" id="7VX-hd-I0z"/>
                                             <constraint firstItem="gC2-i9-XzD" firstAttribute="leading" secondItem="xcf-6o-aQQ" secondAttribute="leading" constant="20" id="B1Z-Ji-CXE"/>
                                             <constraint firstItem="gC2-i9-XzD" firstAttribute="top" secondItem="xcf-6o-aQQ" secondAttribute="top" id="cg3-5s-aAx"/>
